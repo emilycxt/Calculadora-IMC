@@ -26,9 +26,9 @@
                     </label>
                     <div class="input-field">
                         <i class="fa-solid fa-weight-scale"></i>
-                        <input type="number" id="weight" required>
+                        <input type="number" id="weight" required placeholder=" Exemplo: 75">
                         <span>
-                            Kg
+                            kg
                         </span>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                     </label>
                     <div class="input-field">
                         <i class="fa-solid fa-ruler-vertical"></i>
-                        <input type="number" id="height" required>
+                        <input input type="number" step="0.01" id="height" name="height" required placeholder=" Exemplo: 170">
                         <span>
                             m
                         </span>
@@ -53,7 +53,7 @@
 
             <div id="infos" class="hidden">
                 <div class="result">
-                    <div id="imc">
+                    <div id="bmi">
                         <span id="value"></span>
                         <span>Seu IMC</span>
                     </div>
@@ -72,5 +72,7 @@
 
         </section>
     </main>
+
+    <script src="assets/js/script.js"></script>
 </body>
 </html>
