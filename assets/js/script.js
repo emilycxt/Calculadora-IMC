@@ -36,6 +36,6 @@ form.addEventListener('submit', function(event) {
   }
 
   value.textContent = bmi.replace('.', ',');
-  document.getElementById('descript').textContent = description;
+  document.getElementById('description').textContent = description;
 });
 
