@@ -1,5 +1,5 @@
 ## Calculadora de IMC
-[Imagem do projeto](https://uploaddeimagens.com.br/imagens/IpNi1jw)
+![Imagem do projeto](https://uploaddeimagens.com.br/imagens/IpNi1jw)
 
 ## Descrição
 Esse projeto simples de calculadora de IMC foi inspirado na calculadora de IMC da Larissa Kich, veja o código dela no github[AQUI](https://github.com/Larissakich/bmi_calculator).
